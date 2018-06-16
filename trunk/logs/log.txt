@@ -1,0 +1,12 @@
+== Changelog ==
+
+= 1.0 =
+* First public release
+* Integrated Contact form 7 with Zulu eDM 
+
+= 1.1 =
+* Checked compatibility with WordPress 4.8 
+* Updated imagery and screenshots
+* Provided a sample 
+* Corrected grammar etc
+* Integrated Contact form 7 with Zulu eDM 
