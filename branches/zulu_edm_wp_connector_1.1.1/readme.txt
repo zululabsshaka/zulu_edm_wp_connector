@@ -1,14 +1,16 @@
-=== CF7 Zulu eDM Connector ===
-Contributors: Zulu Labs, developer of Zulu eDM
-Author URL: http://www.zululabs.com/
+=== Zulu eDM sync with Contact Form 7 Connector ===
+Requires PHP: 5.3.0
+Contributors: zululabs
+Author URL: https://github.com/zululabsshaka/zulu_edm_wp_connector
 Tags: Zulu eDM, email service provider,email API cf7, contact form 7, Contact Form 7 Integrations, contact forms, Zulu eDM Integrations
 Requires at least: 4.6
-Tested up to: 4.8
+Tested up to: 4.9.6
 Stable tag: trunk
-License: GPLv2 or later
+License: GPLv3.0 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Donate link:  https://donate.wwf.org.au/adopt/tiger
 
-This addition to Contact Form 7
+Integrate your Contact Form 7 with Zulu eDM Campaign Management Software
 
 == Description ==
 
@@ -43,6 +45,9 @@ Want to intergrate your Contact Form 7  web forms with Zulu eDM,then install thi
 
 Enjoy!
 
+== Upgrade Notice ==
+Upgrade to see better examples o how to match fields
+
 == Screenshots ==
 
 1. Check each screen shot with the example code to ensure alignment
@@ -70,4 +75,8 @@ Please double-check those items and hopefully getting them right will fix the is
 * Corrected grammar etc
 * Integrated Contact form 7 with Zulu eDM 
 
+= 1.1.1 =
+* Fixed the Readme file
+* Added WWF adopt a tiger
+* Reloacte the source to github 
 
