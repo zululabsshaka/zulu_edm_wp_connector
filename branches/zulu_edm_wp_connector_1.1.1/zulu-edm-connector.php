@@ -1,11 +1,20 @@
 <?php
 /*
-  Plugin Name: Zulu eDM Contact Form 7 Sync
-  Plugin URI: http://www.zuluedm.com/integrations/#WPC7plugin
-  Description: Send your Contact Form 7 data into your Zulu eDM Account
-  Version: 1.0
-  Author: Zulu eDM Tribe
-  Author URI: http://www.zuluedm.com/developers
+=== Zulu eDM sync with Contact Form 7 Connector ===
+Requires PHP: 5.3.0
+Contributors: zululabs
+Author URL: https://github.com/zululabsshaka/zulu_edm_wp_connector
+Tags: Zulu eDM, email service provider,email API cf7, contact form 7, Contact Form 7 Integrations, contact forms, Zulu eDM Integrations
+Requires at least: 4.6
+Tested up to: 4.9.6
+Stable tag: trunk
+License: GPLv3.0 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Donate link:  https://donate.wwf.org.au/adopt/tiger
+
+
+
+
  */
 
 if (!defined('ABSPATH')) {
